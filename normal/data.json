@@ -1,0 +1,3776 @@
+{
+    "5200927": {
+        "name": "Салат АШАН Дамский каприз, вес",
+        "url": "https://www.auchan.ru/product/re_damskiy_kapriz_ves/",
+        "price": {
+            "value": 67.99,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "8340332": {
+        "name": "Салат АШАН Оливье Домашний, вес",
+        "url": "https://www.auchan.ru/product/t_salat_olive_domashniy_ves/",
+        "price": {
+            "value": 49.99,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "8340336": {
+        "name": "Салат АШАН Столичный, вес",
+        "url": "https://www.auchan.ru/product/t_salat_stolichnyy_ves/",
+        "price": {
+            "value": 53,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "5200519": {
+        "name": "Салат АШАН Мимоза Премиум, вес",
+        "url": "https://www.auchan.ru/product/salat_mimoza_premium_ves/",
+        "price": {
+            "value": 59,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "8340330": {
+        "name": "Салат АШАН Свекла с сыром и чесноком, вес",
+        "url": "https://www.auchan.ru/product/t_salat_iz_sveksyrchesn_ves/",
+        "price": {
+            "value": 35.99,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "8341999": {
+        "name": "Салат АШАН Гнездо глухаря, вес",
+        "url": "https://www.auchan.ru/product/calat_gnezdo_gluharya_ves/",
+        "price": {
+            "value": 76.99,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "8340441": {
+        "name": "Салат АШАН Греческий, вес",
+        "url": "https://www.auchan.ru/product/t_salat_grecheskiy_ves/",
+        "price": {
+            "value": 63.99,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "8340327": {
+        "name": "Салат АШАН Винегрет овощной, вес",
+        "url": "https://www.auchan.ru/product/t_salat_vinegret_ovoschnoy_ves/",
+        "price": {
+            "value": 32.99,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "5176862": {
+        "name": "Торт АШАН печеночный, вес",
+        "url": "https://www.auchan.ru/product/tort_pechenochnyy_ves/",
+        "price": {
+            "value": 41.9,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": {
+            "value": 49.99,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "8341197": {
+        "name": "Рулетики АШАН из ветчины и сыра, вес",
+        "url": "https://www.auchan.ru/product/ruletiki_iz_vetchiny_s_syra_ves/",
+        "price": {
+            "value": 70,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "5176856": {
+        "name": "Спаржа маринованная АШАН по-корейски, вес",
+        "url": "https://www.auchan.ru/product/salat_sparzha_marinpo_koreyski/",
+        "price": {
+            "value": 56.9,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "old_price": {
+            "value": 67,
+            "currency": "RUB",
+            "per": "weight_100g"
+        },
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "137979": {
+        "name": "Спаржа по-корейски «Солюшко» в соусе маринованная, 250 г",
+        "url": "https://www.auchan.ru/product/sparzha-po-koreyski-solyushko-v-souse-marinovannaya-250-g/",
+        "price": {
+            "value": 144.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Солюшко",
+            "code": "solyushko"
+        }
+    },
+    "5430841": {
+        "name": "Салат Fresh Secret Цезарь, 250 г",
+        "url": "https://www.auchan.ru/product/salat_cezar_250g/",
+        "price": {
+            "value": 242,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 259.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "11626203": {
+        "name": "Салат «Балтийский Берег» Чука в ореховом соусе, 250 г",
+        "url": "https://www.auchan.ru/product/salat-chuka-v-oreh-souse-250g/",
+        "price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Балтийский Берег",
+            "code": "baltiyskiy-bereg"
+        }
+    },
+    "137659": {
+        "name": "Свекла отварная «Солюшко» целая, 500 г",
+        "url": "https://www.auchan.ru/product/svekla-solyushko-otvarnaya-celaya-500g/",
+        "price": {
+            "value": 79.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Солюшко",
+            "code": "solyushko"
+        }
+    },
+    "267563": {
+        "name": "Салат из морской капусты «Меридиан» Витаминный сочный, 450 г",
+        "url": "https://www.auchan.ru/product/salat-iz-morskoy-kapusty-meridian-vitaminnyy-sochnyy-450-g/",
+        "price": {
+            "value": 149.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Меридиан",
+            "code": "meridian-1"
+        }
+    },
+    "135568": {
+        "name": "Смесь Винегрет из отварных овощей, 600 г",
+        "url": "https://www.auchan.ru/product/smes-belaya-dacha-vinegret-iz-otvarnyh-ovoshchey-600-g/",
+        "price": {
+            "value": 199.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "-",
+            "code": "-1"
+        }
+    },
+    "133702": {
+        "name": "Свекла целая «ФЭГ» отварная очищенная в вакуумной упаковке, 500 г",
+        "url": "https://www.auchan.ru/product/svekla-celaya-feg-otvarnaya-ochishchennaya-v-vakuumnoy-upakovke-500-g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "132818": {
+        "name": "Салат Fresh Secret Оливье с ветчиной, 400 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-olive-s-vetchinoy-400-g/",
+        "price": {
+            "value": 179.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "267558": {
+        "name": "Салат из морской капусты «Меридиан» Дальневосточный, 450 г",
+        "url": "https://www.auchan.ru/product/salat-iz-morskoy-kapusty-meridian-dalnevostochnyy-450-g/",
+        "price": {
+            "value": 159.49,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Меридиан",
+            "code": "meridian-1"
+        }
+    },
+    "15832679": {
+        "name": "Салат «Каждый день» Оливье, 200 г",
+        "url": "https://www.auchan.ru/product/kd-olive-s-kolbasoy-200-gr/",
+        "price": {
+            "value": 109.98,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "14714251": {
+        "name": "Салат из морской капусты «Русское море» Классическая, 200 г",
+        "url": "https://www.auchan.ru/product/mor-kapusta-klassicheskaya-200g/",
+        "price": {
+            "value": 69.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Русское море",
+            "code": "russkoe-more"
+        }
+    },
+    "14714254": {
+        "name": "Салат из морской капусты «Русское море» с кальмаром, 200 г",
+        "url": "https://www.auchan.ru/product/mor-kap-kalmar-200g/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Русское море",
+            "code": "russkoe-more"
+        }
+    },
+    "135427": {
+        "name": "Хумус «Салаты&Деликатесы» классический, 200 г",
+        "url": "https://www.auchan.ru/product/humus-salaty-delikatesy-klassicheskiy-200-g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Салаты&Деликатесы",
+            "code": "salaty-delikatesy"
+        }
+    },
+    "135428": {
+        "name": "Хумус «Салаты&Деликатесы» с кедровыми орешками, 200 г",
+        "url": "https://www.auchan.ru/product/humus-salaty-delikatesy-s-kedrovymi-oreshkami-200-g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Салаты&Деликатесы",
+            "code": "salaty-delikatesy"
+        }
+    },
+    "4682152": {
+        "name": "Хумус Sababa рецепт из Эйлата, 150 г",
+        "url": "https://www.auchan.ru/product/humus_recept_iz_eylata_150gr/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Sababa",
+            "code": "sababa"
+        }
+    },
+    "4682153": {
+        "name": "Хумус Sababa Чили пикантный, 150 г",
+        "url": "https://www.auchan.ru/product/humus_chili_pikantnyy_150gr/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Sababa",
+            "code": "sababa"
+        }
+    },
+    "138037": {
+        "name": "Кукуруза Сладкая Liebessen в початках, 450 г",
+        "url": "https://www.auchan.ru/product/kukuruza-liebessen-sladkaya-v-pochatkah-450g/",
+        "price": {
+            "value": 219.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Liebessen",
+            "code": "liebessen"
+        }
+    },
+    "12616050": {
+        "name": "Морковь по-корейски «Традиции Вкуса», 300 г",
+        "url": "https://www.auchan.ru/product/morkov-po-kor-300g-trad-vkusa/",
+        "price": {
+            "value": 63.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 83.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Традиции вкуса",
+            "code": "tradicii-vkusa"
+        }
+    },
+    "136699": {
+        "name": "Спаржа по-корейски «Данессия» маринованная, 300 г",
+        "url": "https://www.auchan.ru/product/salat-po-koreyski-danessiya-sparzha-marinovannaya-300g/",
+        "price": {
+            "value": 219.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "137753": {
+        "name": "Морковь по-корейски «ГринКрест» острая, 500 г",
+        "url": "https://www.auchan.ru/product/morkov-po-koreyski-grinkrest-ostraya-500-g/",
+        "price": {
+            "value": 119.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Грин Крест",
+            "code": "grin-krest"
+        }
+    },
+    "12616017": {
+        "name": "Морковь по-корейски «ФЭГ», 300 г",
+        "url": "https://www.auchan.ru/product/morkov-po-koreyski-300-gr/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "11636507": {
+        "name": "Морковь по-корейски «Каждый день», 500 г",
+        "url": "https://www.auchan.ru/product/kdmorkov_po_koreyski_500g/",
+        "price": {
+            "value": 72.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "102509": {
+        "name": "Морковь по-корейски «ФЭГ», 500 г",
+        "url": "https://www.auchan.ru/product/morkov-feg-po-koreyski-500-g/",
+        "price": {
+            "value": 129.49,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "102389": {
+        "name": "Морковь по-корейски Fresh Secret, 400 г",
+        "url": "https://www.auchan.ru/product/morkov-freshsecret-po-koreyski-400-g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "130634": {
+        "name": "Морковь по-корейски Fresh Secret, 600 г",
+        "url": "https://www.auchan.ru/product/salat-morkov-po-koreyski-freshsecret-600-g/",
+        "price": {
+            "value": 239.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "101229": {
+        "name": "Морковь по-корейски Fresh Secret, 140 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-morkov-po-koreyski-140-g/",
+        "price": {
+            "value": 69.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "101228": {
+        "name": "Морковь по-корейски «Данессия» маринованная, 450 г",
+        "url": "https://www.auchan.ru/product/salat-danessiya-morkov-marinovannaya-po-koreyski-450-g/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "18638455": {
+        "name": "Роллы «Йуми» Калифорния, 240 г",
+        "url": "https://www.auchan.ru/product/roll-kaliforniya-240-gr/",
+        "price": {
+            "value": 239.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Йуми",
+            "code": "yumi"
+        }
+    },
+    "16089455": {
+        "name": "Онигири I like eat Калифорния, 100 г",
+        "url": "https://www.auchan.ru/product/onigiri-kaliforniya-100-gr/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "I like eat",
+            "code": "i-like-eat"
+        }
+    },
+    "16089456": {
+        "name": "Онигири I like eat с курицей Том Ям, 100 г",
+        "url": "https://www.auchan.ru/product/onigiri-s-kuricey-tom-yam-100gr/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "I like eat",
+            "code": "i-like-eat"
+        }
+    },
+    "18638457": {
+        "name": "Роллы «Йуми» Калифорния с креветкой, 240 г",
+        "url": "https://www.auchan.ru/product/kaliforniya-s-krevetkoy-240-gr/",
+        "price": {
+            "value": 259.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Йуми",
+            "code": "yumi"
+        }
+    },
+    "19897189": {
+        "name": "Закуска сыр мягкий Сицилийский микс Terra del Gusto, 190 г",
+        "url": "https://www.auchan.ru/product/zakuska-siciliysk-miks-190g/",
+        "price": {
+            "value": 249.95,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 389.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Terra del Gusto",
+            "code": "terra-del-gusto"
+        }
+    },
+    "8341438": {
+        "name": "Квашеная капуста с морковью «Традиции Вкуса», 800 г",
+        "url": "https://www.auchan.ru/product/kap_kv_s_morkovyu_800_gr/",
+        "price": {
+            "value": 103.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 137.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Традиции вкуса",
+            "code": "tradicii-vkusa"
+        }
+    },
+    "17696671": {
+        "name": "Хумус «Санта Бремор» с оливками, 200 г",
+        "url": "https://www.auchan.ru/product/humus-s-olivkami-200-gr/",
+        "price": {
+            "value": 124.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Санта Бремор",
+            "code": "santa-bremor"
+        }
+    },
+    "137656": {
+        "name": "Салат Сырный «Данессия», 150 г",
+        "url": "https://www.auchan.ru/product/salat-danessiya-syrnyy-150g/",
+        "price": {
+            "value": 109.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "11800813": {
+        "name": "Хумус AmFood Тайны Востока с оливками, 200 г",
+        "url": "https://www.auchan.ru/product/zakuska-humus-s-olivkami-200gr/",
+        "price": {
+            "value": 134.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "AmFood",
+            "code": "amfood"
+        }
+    },
+    "135383": {
+        "name": "Капуста квашеная «Солюшко» По-домашнему, 450 г",
+        "url": "https://www.auchan.ru/product/kapusta-kvashennaya-solyushko-po-domashnemu-450-g/",
+        "price": {
+            "value": 87.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Солюшко",
+            "code": "solyushko"
+        }
+    },
+    "13409801": {
+        "name": "Морковь по-корейски Fresh Secret с баклажанами, 400 г",
+        "url": "https://www.auchan.ru/product/sal-baklazh-po-kor-400gr/",
+        "price": {
+            "value": 144.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 179.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "24555820": {
+        "name": "Салат Fresh Secret Кальмары с морковью по-корейски, 200 г",
+        "url": "https://www.auchan.ru/product/salat-kalm-s-mork-po-kor-200g/",
+        "price": {
+            "value": 134.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "131254": {
+        "name": "Винегрет «Данессия», 450 г",
+        "url": "https://www.auchan.ru/product/salat-danessiya-vinegret-450-g/",
+        "price": {
+            "value": 144.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "15614545": {
+        "name": "Морковь по-корейски Fresh Secret, 300 г",
+        "url": "https://www.auchan.ru/product/morkov-po-koreyski-300-gr-1/",
+        "price": {
+            "value": 109.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 129.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "20080229": {
+        "name": "Салат АШАН Слоеный с бужениной, вес",
+        "url": "https://www.auchan.ru/product/salat-sloenyy-s-buzheninoy-ves/",
+        "price": {
+            "value": 679,
+            "currency": "RUB",
+            "per": "weight_kg"
+        },
+        "old_price": {
+            "value": 799.9,
+            "currency": "RUB",
+            "per": "weight_kg"
+        },
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "131181": {
+        "name": "Капуста квашеная «Данессия» с морковью, 500 г",
+        "url": "https://www.auchan.ru/product/kapusta-kvashennaya-danessiya-s-morkovyu-500-g/",
+        "price": {
+            "value": 118.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "17032440": {
+        "name": "Салат «Данессия» Спаржа маринованная с овощами, 300 г",
+        "url": "https://www.auchan.ru/product/sparzha-marin-s-ovoshchami-300-gr/",
+        "price": {
+            "value": 194.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 219.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "984870": {
+        "name": "Салат «Данессия» Сельдь под шубой, 450 г",
+        "url": "https://www.auchan.ru/product/salat-danessiya-seld-pod-shuboy-450-g/",
+        "price": {
+            "value": 179.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 199.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "17203907": {
+        "name": "Холодец АШАН Красная птица из индейки и курицы, 400 г",
+        "url": "https://www.auchan.ru/product/kp-holodec-indeyka-i-kur-400g/",
+        "price": {
+            "value": 149.95,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 209.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "17203909": {
+        "name": "Холодец АШАН Красная птица из свинины и говядины, 400 г",
+        "url": "https://www.auchan.ru/product/kp-holodec-so-svin-i-gov-400g/",
+        "price": {
+            "value": 179.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 229.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "17203913": {
+        "name": "Холодец АШАН Красная птица свиной, 400 г",
+        "url": "https://www.auchan.ru/product/kp-holodec-svinoy-400g/",
+        "price": {
+            "value": 179.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 209.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "25314844": {
+        "name": "Салат АШАН Красная птица Нижегородский, 150 г",
+        "url": "https://www.auchan.ru/product/kp-salat-nizhegorodskiy-150g/",
+        "price": {
+            "value": 80.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "brand": {
+            "name": "АШАН АШАН Красная птица",
+            "code": "ashan-ashan-krasnaya-ptica"
+        }
+    },
+    "25314840": {
+        "name": "Салат АШАН Красная птица из свеклы с фасолью, 150 г",
+        "url": "https://www.auchan.ru/product/kp-salat-iz-svekly-s-fas-150g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН АШАН Красная птица",
+            "code": "ashan-ashan-krasnaya-ptica"
+        }
+    },
+    "24048537": {
+        "name": "Салат АШАН Красная птица Витаминный, 200 г",
+        "url": "https://www.auchan.ru/product/kp-salat-vitaminnyy-200g/",
+        "price": {
+            "value": 79.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "17438343": {
+        "name": "Салат Чука АШАН Красная птица, 200 г",
+        "url": "https://www.auchan.ru/product/kp-salat-chuka-200g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "20795129": {
+        "name": "Салат АШАН Красная птица Крабовый, 200 г",
+        "url": "https://www.auchan.ru/product/kp-salat-krabovyy-200-g/",
+        "price": {
+            "value": 129.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "24048545": {
+        "name": "Салат АШАН Красная птица Свекла с чесноком, 200 г",
+        "url": "https://www.auchan.ru/product/kp-svekla-s-chesnokom-200g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "20851349": {
+        "name": "Соус имбирный АШАН Золотая птица, 100 г",
+        "url": "https://www.auchan.ru/product/zp-sous-imbirnyy-100g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН Золотая птица",
+            "code": "ashan_zolotaya_ptica"
+        }
+    },
+    "18592372": {
+        "name": "Зельц АШАН Красная птица натуральный, 400 г",
+        "url": "https://www.auchan.ru/product/kp-zelc-natur-pgn-400g/",
+        "price": {
+            "value": 189.9,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "20795137": {
+        "name": "Салат АШАН Красная птица Оливье, 200 г",
+        "url": "https://www.auchan.ru/product/kp-salat-olive-s-vetchinoy-200/",
+        "price": {
+            "value": 129.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "22935429": {
+        "name": "Салат АШАН Красная птица Оливье с колбасой, 200 г",
+        "url": "https://www.auchan.ru/product/kp-salat-olive-200g/",
+        "price": {
+            "value": 119.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "20795133": {
+        "name": "Салат АШАН Красная птица Мимоза, 200 г",
+        "url": "https://www.auchan.ru/product/kp-salat-mimoza-s-gorbushey-200/",
+        "price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН Красная птица",
+            "code": "ashan_krasnaya_ptica"
+        }
+    },
+    "25338060": {
+        "name": "Хумус «Полезные продукты» с кедровыми орешками, 200 г",
+        "url": "https://www.auchan.ru/product/humus-kedr-or-200g/",
+        "price": {
+            "value": 219.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Полезные продукты",
+            "code": "poleznye-produkty"
+        }
+    },
+    "12615968": {
+        "name": "Гребешки по-корейски «ФЭГ», 300 г",
+        "url": "https://www.auchan.ru/product/3al-grebeshki-po-korey-300gr/",
+        "price": {
+            "value": 309.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "103359": {
+        "name": "Кальмары с морковью по-корейски Fresh Secret, 400 г",
+        "url": "https://www.auchan.ru/product/salat-po-koreyski-freshsecret-kalmary-s-morkovyu-400g/",
+        "price": {
+            "value": 279.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "19935924": {
+        "name": "Закуска оливки с мягким сыром Burenka Club БЗМЖ, 240 г",
+        "url": "https://www.auchan.ru/product/zakuska-olivki-240g-burenka/",
+        "price": {
+            "value": 297.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Burenka Club",
+            "code": "burenka-club"
+        }
+    },
+    "13314598": {
+        "name": "Набор для винегрета «ФЭГ», 500 г",
+        "url": "https://www.auchan.ru/product/nabor-dlya-vinegreta-500-g-v-u/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "17696669": {
+        "name": "Хумус «Санта Бремор» с паприкой, 200 г",
+        "url": "https://www.auchan.ru/product/humus-s-paprikoy-200-gr/",
+        "price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Санта Бремор",
+            "code": "santa-bremor"
+        }
+    },
+    "136677": {
+        "name": "Холодец «Окраина» Куриный, 300 г",
+        "url": "https://www.auchan.ru/product/holodec-okraina-kurinyy-300-g/",
+        "price": {
+            "value": 220.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Окраина",
+            "code": "okraina"
+        }
+    },
+    "14714112": {
+        "name": "Холодец «Холодушка» Русский, 250 г",
+        "url": "https://www.auchan.ru/product/holodec-russkiy-250-gr-poros/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Холодушка",
+            "code": "holodushka"
+        }
+    },
+    "132819": {
+        "name": "Салат Fresh Secret Сельдь под шубой, 400 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-seld-pod-shuboy-400-g/",
+        "price": {
+            "value": 189.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "18695284": {
+        "name": "Салат из маринованных овощей «Каждый день» Ассорти по-корейски с баклажаном, 240 г",
+        "url": "https://www.auchan.ru/product/kd-assort-s-bakl-po-korey-240g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "16001607": {
+        "name": "Салат «Санта Бремор» Самое время крабовый с креветками и ананасами, 150 г",
+        "url": "https://www.auchan.ru/product/salat-krabovyy-s-krevet-150-gr/",
+        "price": {
+            "value": 129.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Санта Бремор",
+            "code": "santa-bremor"
+        }
+    },
+    "267619": {
+        "name": "Рулетики из ветчины «Свели» с сыром, 200 г",
+        "url": "https://www.auchan.ru/product/ruletiki-iz-vetchiny-sveli-s-syrom-200-g/",
+        "price": {
+            "value": 189.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "СВЕЛИ",
+            "code": "sveli"
+        }
+    },
+    "137440": {
+        "name": "Салат «Данессия» Оливье с ветчиной, 450 г",
+        "url": "https://www.auchan.ru/product/salat-danessiya-olive-s-vetchinoy-450-g/",
+        "price": {
+            "value": 209.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "131236": {
+        "name": "Огурцы соленые «Данессия», 600 г",
+        "url": "https://www.auchan.ru/product/ogurcy-solenye-danessiya-600-g/",
+        "price": {
+            "value": 149.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "5470832": {
+        "name": "Салат Баварские с ветчиной «Грин Крест», 300 г",
+        "url": "https://www.auchan.ru/product/bavarskiy_s_vetchinoy300gr/",
+        "price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Грин Крест",
+            "code": "grin-krest"
+        }
+    },
+    "12614354": {
+        "name": "Закуска FreshSecret Соте с сыром, 200 г",
+        "url": "https://www.auchan.ru/product/zakuska-sote-s-syrom-200g/",
+        "price": {
+            "value": 239.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "FreshSecret",
+            "code": "freshsecret"
+        }
+    },
+    "138034": {
+        "name": "Капуста квашеная «ФЭГ» с морковью, 500 г",
+        "url": "https://www.auchan.ru/product/kapusta-kvashennaya-feg-s-morkovyu-500-g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "6604286": {
+        "name": "Капуста квашеная «Белоручка» По-старорусски, 500 г",
+        "url": "https://www.auchan.ru/product/kapusta_kv_po_starorus_500g/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "9538442": {
+        "name": "Салат фунчоза, 300 г",
+        "url": "https://www.auchan.ru/product/salat_funcheza_300g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "-",
+            "code": "-1"
+        }
+    },
+    "267559": {
+        "name": "Салат из морской капусты «Меридиан» Сахалинский сочный, 450 г",
+        "url": "https://www.auchan.ru/product/salat-iz-morskoy-kapusty-meridian-sahalinskiy-sochnyy-450-g/",
+        "price": {
+            "value": 149.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Меридиан",
+            "code": "meridian-1"
+        }
+    },
+    "133240": {
+        "name": "Чеснок соленый «ФЭГ» белый, 500 г",
+        "url": "https://www.auchan.ru/product/chesnok-feg-belyy-solenyy-500-g/",
+        "price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "130168": {
+        "name": "Капуста по-корейски Fresh Secret, 400 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-kapusta-po-koreyski-400-g/",
+        "price": {
+            "value": 199.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "100883": {
+        "name": "Салат Fresh Secret Сельдь под шубой, 180 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-seld-pod-shuboy-180-g/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "130632": {
+        "name": "Салат Fresh Secret Сельдь под шубой, 600 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-seld-pod-shuboy-600-g/",
+        "price": {
+            "value": 259.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "136675": {
+        "name": "Холодец «Окраина» Домашний, 300 г",
+        "url": "https://www.auchan.ru/product/holodec-okraina-domashniy-300-g/",
+        "price": {
+            "value": 246.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Окраина",
+            "code": "okraina"
+        }
+    },
+    "239127": {
+        "name": "Салат Столичный «Корона Фуд», 400 г",
+        "url": "https://www.auchan.ru/product/salat-stolichnyy-korona-fud-400-g/",
+        "price": {
+            "value": 269.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Корона Фуд",
+            "code": "korona-fud"
+        }
+    },
+    "16976341": {
+        "name": "Салат FreshSecret Шитаки по-корейски, 200 г",
+        "url": "https://www.auchan.ru/product/shitaki-po-koreyski-200gr/",
+        "price": {
+            "value": 229.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "FreshSecret",
+            "code": "freshsecret"
+        }
+    },
+    "13176412": {
+        "name": "Заливное из свиного языка «БахрушинЪ», 500 г",
+        "url": "https://www.auchan.ru/product/zalivnoe-iz-yazyka-svinogo-500/",
+        "price": {
+            "value": 674.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Бахрушинъ",
+            "code": "bahrushin"
+        }
+    },
+    "8277687": {
+        "name": "Огурцы «Каждый день» соленые, 1 кг",
+        "url": "https://www.auchan.ru/product/kd-ogurcy-sol-1kg-vedro/",
+        "price": {
+            "value": 170.96,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "8341444": {
+        "name": "Капуста «Традиции вкуса» с морковью по-корейски, 300 г",
+        "url": "https://www.auchan.ru/product/kap_s_mork_po_koreyski_300_gr/",
+        "price": {
+            "value": 105.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Традиции вкуса",
+            "code": "tradicii-vkusa"
+        }
+    },
+    "7685388": {
+        "name": "Паштет постный Vego нут с морковью, 300 г",
+        "url": "https://www.auchan.ru/product/pashtet_nut_s_morkovyu300g/",
+        "price": {
+            "value": 377.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Vego",
+            "code": "vego"
+        }
+    },
+    "19859757": {
+        "name": "Перец «Каждый день» соленый, 200 г",
+        "url": "https://www.auchan.ru/product/kd-perec-solenyy-200g/",
+        "price": {
+            "value": 69.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "15614548": {
+        "name": "Салат Fresh Secret крабовый, 180 г",
+        "url": "https://www.auchan.ru/product/salat-krabovyy-180-gr/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "20080231": {
+        "name": "Салат АШАН Черепашка, вес",
+        "url": "https://www.auchan.ru/product/salat-cherepashka-1kg-ge-fk/",
+        "price": {
+            "value": 799.9,
+            "currency": "RUB",
+            "per": "weight_kg"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "АШАН",
+            "code": "ashan"
+        }
+    },
+    "135443": {
+        "name": "Студень свиной «Рублевский» Классический, 380 г",
+        "url": "https://www.auchan.ru/product/studen-svinoy-rublevskiy-klassicheskiy-380-g/",
+        "price": {
+            "value": 345.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Рублёвский",
+            "code": "rublevskiy"
+        }
+    },
+    "9351090": {
+        "name": "Салат «Белоручка» Капуста маринованная шинкованная с морковью и яблоками, 500 г",
+        "url": "https://www.auchan.ru/product/kapustamorkcelmochenyabl_05/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "13195621": {
+        "name": "Холодец «Ремит» индейка и курица, 400 г",
+        "url": "https://www.auchan.ru/product/holodec-indeyka-i-kurica-400g/",
+        "price": {
+            "value": 259.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "РЕМИТ",
+            "code": "remit"
+        }
+    },
+    "8339950": {
+        "name": "Зельц «Каждый день» слоеный, ~ 1,3 кг",
+        "url": "https://www.auchan.ru/product/kd-zelc-ves-1/",
+        "price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "weight_kg"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "132817": {
+        "name": "Салат Fresh Secret Морковь с сыром и чесноком, 400 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-morkov-s-syrom-i-chesnokom-400-g/",
+        "price": {
+            "value": 209.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "134737": {
+        "name": "Салат Fresh Secret Дамский каприз, 400 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-damskiy-kapriz-400-g/",
+        "price": {
+            "value": 289.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "101321": {
+        "name": "Капуста квашеная «Данессия», 750 г",
+        "url": "https://www.auchan.ru/product/kapusta-danessiya-kvashenaya-750-g/",
+        "price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "12615971": {
+        "name": "Салат Фунчоза бобовая по-корейски «ФЭГ», 300 г",
+        "url": "https://www.auchan.ru/product/sal-funch-po-kor-300g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "265844": {
+        "name": "Салат Капуста по-корейски «Данессия» маринованная, 300 г",
+        "url": "https://www.auchan.ru/product/salat-kapusta-po-koreyski-danessiya-marinovannaya-300-g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "8277685": {
+        "name": "Капуста квашеная «Каждый день» с морковью, 900 г",
+        "url": "https://www.auchan.ru/product/kd-kapusta-kvash-0-9kg-vedro/",
+        "price": {
+            "value": 118.98,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "904972": {
+        "name": "Капуста квашеная «Белоручка» Фитнесс шинкованая без содержания сахара, 1 кг",
+        "url": "https://www.auchan.ru/product/kapusta-kvashenaya-beloruchka-fitness-shinkovanaya-bez-soderzhaniya-sahara-1-kg/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "103376": {
+        "name": "Перец соленый «ФЭГ» острый, 200 г",
+        "url": "https://www.auchan.ru/product/perec-solenyy-feg-ostryy-200-g/",
+        "price": {
+            "value": 95.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "11204827": {
+        "name": "Холодец «Диво» Сельский куриный, 300 г",
+        "url": "https://www.auchan.ru/product/holodec-selskiy-kurinyy-300g/",
+        "price": {
+            "value": 119.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Диво",
+            "code": "divo"
+        }
+    },
+    "10427319": {
+        "name": "Баклажаны по-корейски Fresh Secret, 250 г",
+        "url": "https://www.auchan.ru/product/baklazhany-po-koreyski-250g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "133239": {
+        "name": "Черемша соленая «ФЭГ», 500 г",
+        "url": "https://www.auchan.ru/product/cheremsha-solenaya-feg-1-kg/",
+        "price": {
+            "value": 124.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "25192308": {
+        "name": "Хумус «Полезные продукты» Классический, 200 г",
+        "url": "https://www.auchan.ru/product/humus-klassicheskiy-200gr-st-b/",
+        "price": {
+            "value": 226.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Полезные продукты",
+            "code": "poleznye-produkty"
+        }
+    },
+    "267614": {
+        "name": "Капуста по-грузински «ФЭГ», 1 кг",
+        "url": "https://www.auchan.ru/product/kapusta-po-gruzinski-feg-1-kg/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "12616063": {
+        "name": "Салат Крабовый «Санта Бремор» Самое время, 150 г",
+        "url": "https://www.auchan.ru/product/salat-krabovyy-150g/",
+        "price": {
+            "value": 79.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Санта Бремор",
+            "code": "santa-bremor"
+        }
+    },
+    "4680595": {
+        "name": "Грибы по-доманшнему «ФЭГ», 280 г",
+        "url": "https://www.auchan.ru/product/griby_po_domashnemu_280gr/",
+        "price": {
+            "value": 269.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "16559961": {
+        "name": "Студень «Снежана» Фирменный, 350 г",
+        "url": "https://www.auchan.ru/product/studen-firmennyy-350gr-snezh/",
+        "price": {
+            "value": 312.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Снежана",
+            "code": "snezhana"
+        }
+    },
+    "232915": {
+        "name": "Свекла отварная клубни, 500 г",
+        "url": "https://www.auchan.ru/product/svekla-otvarnaya-klubni-belaya-dacha-500-g/",
+        "price": {
+            "value": 149.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "-",
+            "code": "-1"
+        }
+    },
+    "18924177": {
+        "name": "Морковь «Белоручка» по-корейски с брокколи, 150 г",
+        "url": "https://www.auchan.ru/product/morkov-po-kor-brokkol-150-gr/",
+        "price": {
+            "value": 119.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "8339998": {
+        "name": "Салат Creative Kitchen Сельдь под шубой, 250 г",
+        "url": "https://www.auchan.ru/product/salat_seld_pod_shuboy_250g/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Creative Kitchen",
+            "code": "creative-kitchen"
+        }
+    },
+    "14714113": {
+        "name": "Холодец «Холодушка» Праздничный, 250 г",
+        "url": "https://www.auchan.ru/product/hol-prazdnichnyy-250-gr-poros/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Холодушка",
+            "code": "holodushka"
+        }
+    },
+    "131253": {
+        "name": "Салат «Данессия» Скоморох, 300 г",
+        "url": "https://www.auchan.ru/product/salat-danessiya-skomoroh-300-g/",
+        "price": {
+            "value": 119.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "130773": {
+        "name": "Баклажаны с морковью по-корейски Fresh Secret, 600 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-baklazhany-po-koreyski-600-g/",
+        "price": {
+            "value": 249.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "131237": {
+        "name": "Огурцы соленые «Данессия», 400 г",
+        "url": "https://www.auchan.ru/product/ogurcy-solenye-danessiya-400-g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "985279": {
+        "name": "Имбирь «Белоручка» маринованный, 400 г",
+        "url": "https://www.auchan.ru/product/imbir-beloruchka-marinovannyy-400-g/",
+        "price": {
+            "value": 149.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "550914": {
+        "name": "Зельц «Бахрушинъ» Деревенский, 360 г",
+        "url": "https://www.auchan.ru/product/zelc-bahrushin-derevenskiy-360-g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Бахрушинъ",
+            "code": "bahrushin"
+        }
+    },
+    "132972": {
+        "name": "Салат Fresh Secret Оливье с языком, 180 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-olive-s-yazykom-180-g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "8340013": {
+        "name": "Салат Creative Kitchen Мимоза с горбушей, 250 г",
+        "url": "https://www.auchan.ru/product/salat_mimoza_250g/",
+        "price": {
+            "value": 199.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Creative Kitchen",
+            "code": "creative-kitchen"
+        }
+    },
+    "101385": {
+        "name": "Спаржа по-корейски Fresh Secret, 200 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-sparzha-po-koreyski-200-g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "133235": {
+        "name": "Капуста квашеная «ФЭГ» с клюквой, 800 г",
+        "url": "https://www.auchan.ru/product/kapusta-kvashennaya-feg-s-klyukvoy-800-g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "18592455": {
+        "name": "Салат «Солюшко» Свекла пикантная, 250 г",
+        "url": "https://www.auchan.ru/product/salat-svekla-pikantnaya-250g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Солюшко",
+            "code": "solyushko"
+        }
+    },
+    "18924167": {
+        "name": "Фунчоза «Белоручка» по-корейски с овощами, 150 г",
+        "url": "https://www.auchan.ru/product/funcheza-s-ovoshchami-150-gr/",
+        "price": {
+            "value": 69.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "133836": {
+        "name": "Капуста «ФЭГ» Diet маринованная, 500 г",
+        "url": "https://www.auchan.ru/product/kapusta-feg-diet-marinovannaya-500-g/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "12616067": {
+        "name": "Салат Свекольный «Санта Бремор» Самое время с арахисом, 150 г",
+        "url": "https://www.auchan.ru/product/salat-svekolnyy-150g/",
+        "price": {
+            "value": 69.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Санта Бремор",
+            "code": "santa-bremor"
+        }
+    },
+    "223608": {
+        "name": "Спаржа по-корейски Fresh Secret, 600 г",
+        "url": "https://www.auchan.ru/product/salat-sparzha-po-koreyski-freshsecret-600-g/",
+        "price": {
+            "value": 269.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "234205": {
+        "name": "Салат Мимоза «Корона Фуд», 400 г",
+        "url": "https://www.auchan.ru/product/salat-mimoza-korona-fud-400-g/",
+        "price": {
+            "value": 299.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Корона Фуд",
+            "code": "korona-fud"
+        }
+    },
+    "980950": {
+        "name": "Огурцы «ФЭГ» соленые бочковые традиционные, 1 кг",
+        "url": "https://www.auchan.ru/product/ogurcy-feg-solenye-bochkovye-tradicionnye-1-kg/",
+        "price": {
+            "value": 194.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "250623": {
+        "name": "Салат Fresh Secret Свекла с орехами, 250 г",
+        "url": "https://www.auchan.ru/product/salat-svekla-s-orehami-fresh-secret-250-g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "133704": {
+        "name": "Черемша соленая «ФЭГ», 200 г",
+        "url": "https://www.auchan.ru/product/cheremsha-feg-solenaya-200-g/",
+        "price": {
+            "value": 97.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "134127": {
+        "name": "Салат Свекла с черносливом «Данессия», 250 г",
+        "url": "https://www.auchan.ru/product/salat-danessiya-svekla-s-chernoslivom-250-g/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "130514": {
+        "name": "Огурцы соленые «Солюшко» из бочки, 500 г",
+        "url": "https://www.auchan.ru/product/ogurcy-solenye-solyushko-iz-bochki-500-g/",
+        "price": {
+            "value": 129.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Солюшко",
+            "code": "solyushko"
+        }
+    },
+    "223193": {
+        "name": "Салат Fresh Secret Деревенский, 180 г",
+        "url": "https://www.auchan.ru/product/salat-derevenskiy-freshsecret-180-g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "8256584": {
+        "name": "Капуста квашеная «Каждый день», 600 г",
+        "url": "https://www.auchan.ru/product/kd-kapusta-kvash-0-6kg-vedro/",
+        "price": {
+            "value": 83.29,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "15832678": {
+        "name": "Салат «Каждый день» с крабовыми палочками, 200 г",
+        "url": "https://www.auchan.ru/product/kd-salat-s-krab-pal-200-gr/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "16984280": {
+        "name": "Капуста квашеная «Традиции вкуса» Фитнес без сахара, 250 г",
+        "url": "https://www.auchan.ru/product/kapusta-kv-fitnes-bez-sah-250g/",
+        "price": {
+            "value": 64.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Традиции Вкуса",
+            "code": "tradicii-vkusa-2"
+        }
+    },
+    "18695283": {
+        "name": "Салат из маринованных овощей «Каждый день» Ассорти по-корейски со спаржей, 240 г",
+        "url": "https://www.auchan.ru/product/kd-assor-po-korey-so-sparzh240g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "8277694": {
+        "name": "Морковь «Каждый день» по-корейски, 150 г",
+        "url": "https://www.auchan.ru/product/kdmorkov_po_kor_150g_dv/",
+        "price": {
+            "value": 41.98,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "236841": {
+        "name": "Салат Оливье «Данессия» с курицей, 500 г",
+        "url": "https://www.auchan.ru/product/salat-olive-danessiya-s-kuricey-500-g/",
+        "price": {
+            "value": 289.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "132526": {
+        "name": "Салат Fresh Secret Фунчоза, 200 г",
+        "url": "https://www.auchan.ru/product/salat-funchoza-fresh-secret-200-g/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "1703248": {
+        "name": "Минтай «Меридиан» отварной в желе, 200 г",
+        "url": "https://www.auchan.ru/product/mintay-otvarnoy-meridian-file-kusok-v-zhele-200-g/",
+        "price": {
+            "value": 132.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Меридиан",
+            "code": "meridian-1"
+        }
+    },
+    "133234": {
+        "name": "Капуста квашеная «ФЭГ» по-Деревенски, 900 г",
+        "url": "https://www.auchan.ru/product/kapusta-feg-kvashennaya-po-derevenski-900-g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "101893": {
+        "name": "Перец соленый «ФЭГ» острый, 500 г",
+        "url": "https://www.auchan.ru/product/perec-feg-solenyy-ostryy-500-g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "8277693": {
+        "name": "Огурцы «Каждый день» соленые, 150 г",
+        "url": "https://www.auchan.ru/product/kdogurcy_sol_015_kg_vakuum/",
+        "price": {
+            "value": 42.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "11204818": {
+        "name": "Холодец «Диво» Домашний говяжий, 300 г",
+        "url": "https://www.auchan.ru/product/holodec-domashniy-govyazhiy-300g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Диво",
+            "code": "divo"
+        }
+    },
+    "16903783": {
+        "name": "Морковь по-корейски «ТесТов» Пан Чан, 395 г",
+        "url": "https://www.auchan.ru/product/morkov-po-koreyski-395g/",
+        "price": {
+            "value": 114.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ТесТов",
+            "code": "testov"
+        }
+    },
+    "13047685": {
+        "name": "Имбирь маринованный «ФЭГ», 100 г",
+        "url": "https://www.auchan.ru/product/imbir-marinovannyy-100-g/",
+        "price": {
+            "value": 59.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "133236": {
+        "name": "Капуста квашеная «ФЭГ» сладкая, 900 г",
+        "url": "https://www.auchan.ru/product/kapusta-kvashennaya-feg-sladkaya-900-g/",
+        "price": {
+            "value": 165.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "13084700": {
+        "name": "Имбирь маринованный «ФЭГ», 250 г",
+        "url": "https://www.auchan.ru/product/imbir-marinov-250g/",
+        "price": {
+            "value": 105.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "12616068": {
+        "name": "Салат Оливье «Санта Бремор» Самое время, 150 г",
+        "url": "https://www.auchan.ru/product/salat-olive-150g-2/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Санта Бремор",
+            "code": "santa-bremor"
+        }
+    },
+    "17557961": {
+        "name": "Морская капуста «Русское море» Классическая маринованная, 450 г",
+        "url": "https://www.auchan.ru/product/mor-kapusta-marin-klassich-450g/",
+        "price": {
+            "value": 149.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Русское море",
+            "code": "russkoe-more"
+        }
+    },
+    "131246": {
+        "name": "Салат Fresh Secret Деревенский, 400 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-derevenskiy-400-g/",
+        "price": {
+            "value": 209.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "8277688": {
+        "name": "Томаты «Каждый день» соленые, 500 г",
+        "url": "https://www.auchan.ru/product/kd-pomidory-sol-0-5kg-vedro/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "130771": {
+        "name": "Салат Fresh Secret Свекла с орехом, 600 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-svekla-s-orehom-600-g/",
+        "price": {
+            "value": 239.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "21691709": {
+        "name": "Холодец из говядины «Окраина», 300 г",
+        "url": "https://www.auchan.ru/product/holodec-iz-govyadiny-okr-300g/",
+        "price": {
+            "value": 292.96,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Окраина",
+            "code": "okraina"
+        }
+    },
+    "15703674": {
+        "name": "Салат «Каждый день» сельдь под шубой, 400 г",
+        "url": "https://www.auchan.ru/product/kd-salat-seld-pod-shuboy-400g/",
+        "price": {
+            "value": 179.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "904832": {
+        "name": "Салат «Меридиан» из морской капусты с Кальмаром, 450 г",
+        "url": "https://www.auchan.ru/product/salat-meridian-iz-morskoy-kapusty-s-kalmarom-450-g/",
+        "price": {
+            "value": 219.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Меридиан",
+            "code": "meridian-1"
+        }
+    },
+    "8339933": {
+        "name": "Салат Гнездо Глухаря, 180 г",
+        "url": "https://www.auchan.ru/product/salat_gnezdo_gluharya_180g/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "-",
+            "code": "-1"
+        }
+    },
+    "17557958": {
+        "name": "Морская капуста «Русское море» по-корейски с баклажанами, 200 г",
+        "url": "https://www.auchan.ru/product/mor-kap-po-kor-s-bakl-200g/",
+        "price": {
+            "value": 79.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Русское море",
+            "code": "russkoe-more"
+        }
+    },
+    "267616": {
+        "name": "Лист виноградный соленый «ФЭГ», 300 г",
+        "url": "https://www.auchan.ru/product/list-vinogradnyy-solenyy-feg-300-g/",
+        "price": {
+            "value": 86.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "18695285": {
+        "name": "Салат из маринованных овощей «Каждый день» Ассорти по-грузински с капустой, 240 г",
+        "url": "https://www.auchan.ru/product/kd-assort-s-kapus-po-gruz-240g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "10583531": {
+        "name": "Ассорти овощное «ФЭГ» Пятерка, 1 кг",
+        "url": "https://www.auchan.ru/product/assorti-ovoshchnoe-pyaterka-1000g/",
+        "price": {
+            "value": 205.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "250686": {
+        "name": "Салат Фасолевый Лобио «Данессия», 450 г",
+        "url": "https://www.auchan.ru/product/salat-fasolevyy-lobio-danessiya-450-g/",
+        "price": {
+            "value": 189.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "8256654": {
+        "name": "Спаржа «Каждый день» по-корейски, 150 г",
+        "url": "https://www.auchan.ru/product/kdsparzha_po_koreyski_150g/",
+        "price": {
+            "value": 69.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "133700": {
+        "name": "Огурцы «ФЭГ» соленые, 400 г",
+        "url": "https://www.auchan.ru/product/ogurcy-feg-solenye-400-g/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "16984267": {
+        "name": "Спаржа «Белоручка» по-корейски, 250 г",
+        "url": "https://www.auchan.ru/product/sparzha-po-koreyski-250gr/",
+        "price": {
+            "value": 179.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "16976327": {
+        "name": "Грибы грузди «Белоручка» маринованные, 250 г",
+        "url": "https://www.auchan.ru/product/griby-gruzdi-marin-250gr/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "15703675": {
+        "name": "Салат «Каждый день» винегрет, 400 г",
+        "url": "https://www.auchan.ru/product/kd-salat-vinegret-400gr/",
+        "price": {
+            "value": 119.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "8341450": {
+        "name": "Огурцы Корнишоны соленые «Традиции вкуса», 500 г",
+        "url": "https://www.auchan.ru/product/ogurcy_sol_kornishony_500_gr/",
+        "price": {
+            "value": 137.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Традиции вкуса",
+            "code": "tradicii-vkusa"
+        }
+    },
+    "101890": {
+        "name": "Капуста «ФЭГ» по-Московски, 800 г",
+        "url": "https://www.auchan.ru/product/kapusta-feg-po-moskovski-800-g/",
+        "price": {
+            "value": 199.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "10908396": {
+        "name": "Студень «Холодушка» Мясной, 380 г",
+        "url": "https://www.auchan.ru/product/ctuden-myasnoy-rks-380-gr/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Холодушка",
+            "code": "holodushka"
+        }
+    },
+    "130289": {
+        "name": "Салат «Данессия» Сельдь под шубой, 300 г",
+        "url": "https://www.auchan.ru/product/salat-danessiya-seld-pod-shuboy-300-g/",
+        "price": {
+            "value": 129.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "17032442": {
+        "name": "Салат «Данессия» Спаржа маринованная с имбирем, 300 г",
+        "url": "https://www.auchan.ru/product/sparzha-marin-s-imbirem-300-gr/",
+        "price": {
+            "value": 199.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "101996": {
+        "name": "Салат овощной по-корейски «Данессия» с фунчезой, 250 г",
+        "url": "https://www.auchan.ru/product/salat-ovoshchnoy-po-koreyski-danessiya-s-funchezoy-250-g/",
+        "price": {
+            "value": 145.49,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "19529075": {
+        "name": "Капуста квашеная «Вкуслинка» с морковью и хреном, 850 г",
+        "url": "https://www.auchan.ru/product/kap-kv-s-mork-i-hrenom-850gr/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Вкуслинка",
+            "code": "vkuslinka"
+        }
+    },
+    "138038": {
+        "name": "Чеснок соленый «ФЭГ» красный, 500 г",
+        "url": "https://www.auchan.ru/product/chesnok-solenyy-feg-krasnyy-500-g/",
+        "price": {
+            "value": 165.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "10583529": {
+        "name": "Ассорти овощное Черри и корнишоны «ФЭГ», 500 г",
+        "url": "https://www.auchan.ru/product/assorti-cherri-i-kornishony-500g/",
+        "price": {
+            "value": 129.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "18701017": {
+        "name": "Риет овощной Mare из морской капусты натуральный, 150 г",
+        "url": "https://www.auchan.ru/product/riet-iz-mor-kapusty-natur-150g/",
+        "price": {
+            "value": 69.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Mare",
+            "code": "mare"
+        }
+    },
+    "138036": {
+        "name": "Капуста кисло-сладкая «ФЭГ» маринованная, 1 кг",
+        "url": "https://www.auchan.ru/product/kapusta-kislo-sladkaya-feg-marinovannaya-1-kg/",
+        "price": {
+            "value": 174.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "133238": {
+        "name": "Томаты соленые «ФЭГ» зелёные, 1 кг",
+        "url": "https://www.auchan.ru/product/tomaty-solenye-feg-zelenye-1-kg/",
+        "price": {
+            "value": 155.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "103374": {
+        "name": "Овощи соленые «ФЭГ» Ассорти овощное острое, 800 г",
+        "url": "https://www.auchan.ru/product/assorti-feg-ovoshchnoe-ostroe-800g/",
+        "price": {
+            "value": 149.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "15703673": {
+        "name": "Салат «Каждый день» сельдь под шубой, 200 г",
+        "url": "https://www.auchan.ru/product/kd-salat-seld-pod-shuboy-200g/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "8340007": {
+        "name": "Салат Fresh Secret Оливье с мясом, 400 г",
+        "url": "https://www.auchan.ru/product/salat_olive_s_myasom_400g/",
+        "price": {
+            "value": 249.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "13730050": {
+        "name": "Салат Свекла с орехом Fresh Secret, 400 г",
+        "url": "https://www.auchan.ru/product/salat-svekla-s-orehami-400g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "5470888": {
+        "name": "Капуста квашеная «Белоручка» с морковью и клюквой, 1 кг",
+        "url": "https://www.auchan.ru/product/kapusta_kvash_s_mork_i_klyuk_1kg/",
+        "price": {
+            "value": 149.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "1007277": {
+        "name": "Капуста квашеная «Белоручка» шинкованная с морковью, 1 кг",
+        "url": "https://www.auchan.ru/product/kapusta-kvashenaya-beloruchka-shinkovannaya-s-morkovyu-1-kg/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "130772": {
+        "name": "Салат Fresh Secret Оливье с ветчиной, 600 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-olive-s-vetchinoy-600-g/",
+        "price": {
+            "value": 259.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "8277686": {
+        "name": "Огурцы соленые «Каждый день», 500 г",
+        "url": "https://www.auchan.ru/product/kdogurcy_sol_05_kg_vedro/",
+        "price": {
+            "value": 89.98,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "102434": {
+        "name": "Капуста квашеная «ФЭГ» с морковью, 700 г",
+        "url": "https://www.auchan.ru/product/kapusta-kvashennaya-feg-s-morkovyu-700-g/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "236567": {
+        "name": "Салат Оливье «Данессия» с ветчиной, 150 г",
+        "url": "https://www.auchan.ru/product/salat-olive-danessiya-s-vetchinoy-150-g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "133845": {
+        "name": "Хе из баклажан по-корейски «Данессия» маринованное, 250 г",
+        "url": "https://www.auchan.ru/product/salat-danessiya-he-iz-baklazhan-marinovannoe-po-koreyski-250-g/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "10583333": {
+        "name": "Огурцы соленые корнишоны «ФЭГ», 500 г",
+        "url": "https://www.auchan.ru/product/ogurcy-sol-kornishony-500gr/",
+        "price": {
+            "value": 119.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "8256754": {
+        "name": "Салат Дальневосточный Каждый день, 250 г",
+        "url": "https://www.auchan.ru/product/kdsalat_mk_dalnevostoch_250g/",
+        "price": {
+            "value": 55.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "12616065": {
+        "name": "Салат с копченым мясом «Санта Бремор» Самое время, 150 г",
+        "url": "https://www.auchan.ru/product/salat-s-kopchenym-myasom-150g/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Санта Бремор",
+            "code": "santa-bremor"
+        }
+    },
+    "12616069": {
+        "name": "Салат Сельдь под шубой «Санта Бремор» Самое время, 150 г",
+        "url": "https://www.auchan.ru/product/salat-seld-pod-shuboy-150g/",
+        "price": {
+            "value": 79.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Санта Бремор",
+            "code": "santa-bremor"
+        }
+    },
+    "11204815": {
+        "name": "Холодец «Диво» Домашний свинина говядина, 300 г",
+        "url": "https://www.auchan.ru/product/holodec-domashniy-svin-gov-300g/",
+        "price": {
+            "value": 149.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Диво",
+            "code": "divo"
+        }
+    },
+    "17557957": {
+        "name": "Морская капуста «Русское море» по-корейски с грибами, 200 г",
+        "url": "https://www.auchan.ru/product/mor-kap-po-kor-s-gribami-200g/",
+        "price": {
+            "value": 79.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Русское море",
+            "code": "russkoe-more"
+        }
+    },
+    "16395091": {
+        "name": "Закуска сыр мягкий с томатами Terra del Gusto БЗМЖ, 250 г",
+        "url": "https://www.auchan.ru/product/zakuska-perec-cherr-syrom-250g/",
+        "price": {
+            "value": 394.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Terra del Gusto",
+            "code": "terra-del-gusto"
+        }
+    },
+    "16722237": {
+        "name": "Зельц «Окраина» домашний оригинальный, 500 г",
+        "url": "https://www.auchan.ru/product/zelc-domashniy-originalnyy-ok/",
+        "price": {
+            "value": 358.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Окраина",
+            "code": "okraina"
+        }
+    },
+    "16855800": {
+        "name": "Заливное из мяса рульки «РЕМИТ», 250 г",
+        "url": "https://www.auchan.ru/product/zalivnoe-iz-myasa-rulki-250g/",
+        "price": {
+            "value": 199.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "РЕМИТ",
+            "code": "remit"
+        }
+    },
+    "263640": {
+        "name": "Салат Fresh Secret Баклажаны с паприкой, 300 г",
+        "url": "https://www.auchan.ru/product/salat-baklazhany-s-paprikoy-freshsecret-300-g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "19859758": {
+        "name": "Черемша «Каждый день» соленая, 200 г",
+        "url": "https://www.auchan.ru/product/kd-cheremsha-solenaya-200g/",
+        "price": {
+            "value": 78.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "19897182": {
+        "name": "Закуска Золотой перчик со сливочным сыром Meggle БЗМЖ, 210 г",
+        "url": "https://www.auchan.ru/product/zakuska-perch-zol-s-syrom-210g/",
+        "price": {
+            "value": 437.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Meggle",
+            "code": "meggle"
+        }
+    },
+    "137161": {
+        "name": "Томаты соленые «ФЭГ» красные черри, 500 г",
+        "url": "https://www.auchan.ru/product/tomaty-solenye-feg-krasnye-cherri-500-g/",
+        "price": {
+            "value": 129.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "265296": {
+        "name": "Салат Fresh Secret Винегрет, 400 г",
+        "url": "https://www.auchan.ru/product/salat-vinegret-fresh-secret-400-g/",
+        "price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "135272": {
+        "name": "Спаржа маринованная «Данессия» по-корейски, 150 г",
+        "url": "https://www.auchan.ru/product/salat-sparzha-marinovannaya-danessiya-po-koreyski-150-g/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "229171": {
+        "name": "Грибы маринованные «ФЭГ» шампиньоны, 250 г",
+        "url": "https://www.auchan.ru/product/griby-marinovannye-feg-shampinony-250-g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "16855801": {
+        "name": "Холодец из свинины и курицы «РЕМИТ», 400 г",
+        "url": "https://www.auchan.ru/product/holodec-svinina-i-kurica-400g/",
+        "price": {
+            "value": 209.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "РЕМИТ",
+            "code": "remit"
+        }
+    },
+    "101892": {
+        "name": "Огурцы «ФЭГ» соленые, 1 кг",
+        "url": "https://www.auchan.ru/product/ogurcy-feg-solenye-1-kg/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "12616066": {
+        "name": "Салат Белорусский «Санта Бремор» Самое время с печенью и грибами, 150 г",
+        "url": "https://www.auchan.ru/product/salat-s-pechenyu-i-gribami-150g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Санта Бремор",
+            "code": "santa-bremor"
+        }
+    },
+    "19935922": {
+        "name": "Закуска красный перчик с мягким сыром Burenka Club БЗМЖ, 260 г",
+        "url": "https://www.auchan.ru/product/zakuska-kras-perch-260g-bur/",
+        "price": {
+            "value": 323.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Burenka Club",
+            "code": "burenka-club"
+        }
+    },
+    "16001623": {
+        "name": "Салат FreshSecret слоеный с курицей, 200 г",
+        "url": "https://www.auchan.ru/product/salat-sloenyy-s-kuricey-200-gr/",
+        "price": {
+            "value": 149.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "FreshSecret",
+            "code": "freshsecret"
+        }
+    },
+    "18924181": {
+        "name": "Салат «Белоручка» Чафан, 240 г",
+        "url": "https://www.auchan.ru/product/salat-chafan-240-gr/",
+        "price": {
+            "value": 89.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "19053402": {
+        "name": "Гриб королевский «Белоручка» по-корейски, 150 г",
+        "url": "https://www.auchan.ru/product/grib-korolevskiy-po-kor-150-g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "133705": {
+        "name": "Чеснок соленый «ФЭГ» белый, 200 г",
+        "url": "https://www.auchan.ru/product/chesnok-solenyy-feg-belyy-200-g/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "130296": {
+        "name": "Салат Fresh Secret Оливье с ветчиной, 180 г",
+        "url": "https://www.auchan.ru/product/salat-freshsecret-olive-s-vetchinoy-180-g/",
+        "price": {
+            "value": 99.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "9527882": {
+        "name": "Морковь по-корейски «Каждый день», 300 г",
+        "url": "https://www.auchan.ru/product/kdmorkov_po_kor_300g_dv/",
+        "price": {
+            "value": 79.76,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "8705258": {
+        "name": "Капуста квашеная «Каждый день», 600 г",
+        "url": "https://www.auchan.ru/product/kd-kapusta-kvash-0-6kg-vedro-1/",
+        "price": {
+            "value": 79.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "135903": {
+        "name": "Капуста квашеная «Солюшко» по-деревенски, 800 г",
+        "url": "https://www.auchan.ru/product/kapusta-kvashenaya-solyushko-po-derevenski-800-g/",
+        "price": {
+            "value": 159.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Солюшко",
+            "code": "solyushko"
+        }
+    },
+    "267613": {
+        "name": "Томаты соленые «ФЭГ» красные, 1 кг",
+        "url": "https://www.auchan.ru/product/tomaty-solenye-feg-krasnye-1-kg/",
+        "price": {
+            "value": 183.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "135040": {
+        "name": "Капуста квашеная «ФЭГ» с морковью, 300 г",
+        "url": "https://www.auchan.ru/product/kapusta-kvashennaya-feg-s-morkovyu-300-g/",
+        "price": {
+            "value": 69.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "102558": {
+        "name": "Спаржа по-корейски «Данессия» с морковью маринованная, 250 г",
+        "url": "https://www.auchan.ru/product/salat-sparzha-po-koreyski-danessiya-s-morkovyu-marinovannaya-250-g/",
+        "price": {
+            "value": 139.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "131852": {
+        "name": "Холодец «Ремит» из свинины и говядины, 400 г",
+        "url": "https://www.auchan.ru/product/holodec-remit-derevenskiy-400-g/",
+        "price": {
+            "value": 288.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "РЕМИТ",
+            "code": "remit"
+        }
+    },
+    "15703672": {
+        "name": "Салат «Каждый день» винегрет, 200 г",
+        "url": "https://www.auchan.ru/product/kd-salat-vinegret-200gr/",
+        "price": {
+            "value": 69.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "6604245": {
+        "name": "Винегрет «Каждый день», 300 г",
+        "url": "https://www.auchan.ru/product/kdvinegret_300g/",
+        "price": {
+            "value": 107.98,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "8340408": {
+        "name": "Напиток «ФЭГ» рассольный капустный, 240 г",
+        "url": "https://www.auchan.ru/product/napitrassoln_kapustnyy_240g/",
+        "price": {
+            "value": 55.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "8340409": {
+        "name": "Напиток «ФЭГ» рассольный огуречный, 240 г",
+        "url": "https://www.auchan.ru/product/napitrassoln_ogurechnyy_240g/",
+        "price": {
+            "value": 49.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "130288": {
+        "name": "капуста пекинская острая соленая «Данессия» Кимчи, 250 г",
+        "url": "https://www.auchan.ru/product/salat-kim-chi-danessiya-kapusta-pekinskaya-ostraya-solenaya-250-g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Данессия",
+            "code": "danessiya"
+        }
+    },
+    "16722236": {
+        "name": "Студень «Окраина» Домашний, 300 г",
+        "url": "https://www.auchan.ru/product/studen-domashniy-300g-lotok/",
+        "price": {
+            "value": 161.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Окраина",
+            "code": "okraina"
+        }
+    },
+    "8256758": {
+        "name": "Капуста «Каждый день» по-корейски с морковью, 300 г",
+        "url": "https://www.auchan.ru/product/kdkapusta_s_mork_po_kor_300g/",
+        "price": {
+            "value": 71.98,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "9527885": {
+        "name": "Капуста по-корейски с морковью «Каждый день», 150 г",
+        "url": "https://www.auchan.ru/product/kdkapusta_s_mork_po_kor_150g/",
+        "price": {
+            "value": 35.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "267606": {
+        "name": "Салат Fresh Secret Крабовый, 400 г",
+        "url": "https://www.auchan.ru/product/salat-krabovyy-freshsecret-400-g/",
+        "price": {
+            "value": 199.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Fresh Secret",
+            "code": "fresh-secret"
+        }
+    },
+    "16976328": {
+        "name": "Грибы опята «Белоручка» маринованные, 250 г",
+        "url": "https://www.auchan.ru/product/griby-opyata-marin-250gr/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Белоручка",
+            "code": "beloruchka"
+        }
+    },
+    "19935923": {
+        "name": "Закуска перчики ассорти с мягким сыром Burenka Club БЗМЖ, 260 Г",
+        "url": "https://www.auchan.ru/product/zakuska-assort-per-260g-bur/",
+        "price": {
+            "value": 319.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Burenka Club",
+            "code": "burenka-club"
+        }
+    },
+    "5471883": {
+        "name": "Язык свиной «Ремит» заливной, 500 г",
+        "url": "https://www.auchan.ru/product/yazyk_zalivnoy_500_g/",
+        "price": {
+            "value": 596.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "РЕМИТ",
+            "code": "remit"
+        }
+    },
+    "133284": {
+        "name": "Капуста квашеная «ФЭГ» По-деревенски, 500 г",
+        "url": "https://www.auchan.ru/product/kapusta-kvashennaya-feg-po-derevenski-500-g/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "130946": {
+        "name": "Грибы соленые «ФЭГ» грузди чёрные, 280 г",
+        "url": "https://www.auchan.ru/product/griby-solenye-feg-gruzdi-chernye-280-g/",
+        "price": {
+            "value": 219.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "19859762": {
+        "name": "Чеснок «Каждый день» соленый, 200 г",
+        "url": "https://www.auchan.ru/product/kd-chesnok-solenyy-200g/",
+        "price": {
+            "value": 116.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "8256738": {
+        "name": "Капуста квашеная «Каждый день» с клюквой, 900 г",
+        "url": "https://www.auchan.ru/product/kd-kapusta-kvash-s-klyuk-0-9kg/",
+        "price": {
+            "value": 95.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "904831": {
+        "name": "Салат из морской капусты «Меридиан» Крабовый, 450 г",
+        "url": "https://www.auchan.ru/product/salat-iz-morskoy-kapusty-meridian-krabovyy-450-g/",
+        "price": {
+            "value": 199.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Меридиан",
+            "code": "meridian-1"
+        }
+    },
+    "4152539": {
+        "name": "Салат из вареных овощей «ТесТов» Пан Чан Спаржа, 650 г",
+        "url": "https://www.auchan.ru/product/salat-iz-varenyh-ovoshchey-testov-pan-chan-sparzha-650-g/",
+        "price": {
+            "value": 239.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ТесТов",
+            "code": "testov"
+        }
+    },
+    "5471499": {
+        "name": "Напиток рассольный «ФЭГ» Томатный, 240 мл",
+        "url": "https://www.auchan.ru/product/napitrassoln_tomatnyy_240g/",
+        "price": {
+            "value": 49.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "12643538": {
+        "name": "Заливное из курицы «Холодушка», 250 г",
+        "url": "https://www.auchan.ru/product/kurica-zal-kurenok-250-gr/",
+        "price": {
+            "value": 109.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Холодушка",
+            "code": "holodushka"
+        }
+    },
+    "103241": {
+        "name": "Имбирь «ФЭГ» маринованный, 400 г",
+        "url": "https://www.auchan.ru/product/imbir-feg-marinovannyy-400g/",
+        "price": {
+            "value": 174.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "ФЭГ",
+            "code": "feg"
+        }
+    },
+    "8256707": {
+        "name": "Салат Крабовый «Каждый день», 250 г",
+        "url": "https://www.auchan.ru/product/kdsalat_mk_krabovyy_250g/",
+        "price": {
+            "value": 65.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Каждый день",
+            "code": "kazhdyy-den"
+        }
+    },
+    "11204820": {
+        "name": "Заливное «Диво» из говядины и языка, 300 г",
+        "url": "https://www.auchan.ru/product/zalivnoe-iz-govyad-i-yazyka-300g/",
+        "price": {
+            "value": 169.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Диво",
+            "code": "divo"
+        }
+    },
+    "17557956": {
+        "name": "Морская капуста «Русское море» по-корейски с морковью, 200 г",
+        "url": "https://www.auchan.ru/product/mor-kapusta-po-koreyski-200g/",
+        "price": {
+            "value": 79.99,
+            "currency": "RUB",
+            "per": "item"
+        },
+        "old_price": null,
+        "brand": {
+            "name": "Русское море",
+            "code": "russkoe-more"
+        }
+    }
+}
